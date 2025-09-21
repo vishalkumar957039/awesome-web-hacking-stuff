@@ -1,4 +1,4 @@
-# awesome-web-hacking
+# awesome-web-hacking For Gna Hackers'
 This list is for anyone wishing to learn about web application security but do not have a starting point.
 
 You can help by sending Pull Requests to add more information.
